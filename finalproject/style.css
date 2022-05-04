@@ -1,0 +1,21 @@
+p{
+    font-size: 1.2em;
+    max-width: 800px;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3em;
+    max-width: 800px;
+}
+h3{
+    font-size: 1.3em;
+    color: grey;
+}
+img{
+    width: 100%;
+    height: auto;
+    max-width: 800px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
